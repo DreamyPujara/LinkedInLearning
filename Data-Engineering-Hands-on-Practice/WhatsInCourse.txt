@@ -1,0 +1,28 @@
+Suggested prerequisites
+
+Know basic Python data types, control structures, functions, and classes.
+Have a good enough understanding of SQL to write queries to extract, transform, and load data in Apache Airflow pipelines.
+Have some knowledge of Bash script or Unix for basic Airflow installation and administration.
+Be familiar with text editors.
+Know some of the basic principles behind cloud computing.
+Projects
+
+Author, import, and execute a basic one-task DAG in Airflow: one Python file with one DAG and one task.
+Author, import, and execute a basic two-task DAG in Airflow, where one task depends on the completion of another task.
+Build a DAG to analyze top-level domains.
+In this course, instructor Vinoo Ganesh gives you an overview of the fundamental skills you need to become a data engineer. Learn how to solve complex data problems in a scalable, concrete way. Explore the core principles of the data engineer toolkit—including ELT, OLTP/OLAP, orchestration, DAGs, and more—as well as how to set up a local Apache Airflow deployment and full-scale data engineering ETL pipeline. Along the way, Vinoo helps you boost your technical skill set using real-world, hands-on scenarios.
+
+This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the “Using GitHub Codespaces with this course” video to learn how to get started.
+
+Learning objectives
+Get an overview of the role and responsibilities of data engineering, including one of the primary tools in the data engineer’s toolkit, the data pipeline.
+Learn how orchestration fits into the data engineering and data pipeline ecosystem.
+Dive into the fundamental extract, transform, and load (ETL) pattern and how it applies to Airflow.
+Review three frequently used concepts in the data engineering and Airflow world: tasks, DAGs (Directed Acyclic Graphs), and dependencies.
+Take a high-level look at Airflow and how it empowers data engineers to create automated workflows.
+Walk through how to install and run Airflow and modify configuration settings of an Airflow environment.
+Apply manual operations to extract, transform, and load data.
+Author basic extract, transform, and load operations using Airflow tasks and build a complete ETL DAG in Airflow using extract, transfer, and load tasks.
+Review other key topics, such as data governance and security, cloud deployment and adoption, real-time data, cross-team collaboration, AI and machine learning.
+Skills covered
+Data Engineering
